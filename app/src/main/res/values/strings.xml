@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Open Stadium</string>
+    <string name="phone_hint">-- --- -- --</string>
+    <string name="msgLogin">Mamlakatingiz kodini tasdiqlang va telefon raqamingizni kiriting.</string>
+    <string name="uzb">O`zbekiston</string>
+    <string name="title_login">Telefon raqamingiz</string>
+    <string name="title_verify">Raqamni tasdiqlash</string>
+    <string name="phone_code_uz">+998</string>
+    <string name="msgVerifyTitle">Kodni kiriting</string>
+    <string name="title_activity_stadium">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Qidiruv</string>
+    <string name="action_profile">Profil</string>
+    <string name="start_time">Boshlash vaqtini tanlash</string>
+    <string name="finish_time">Tugash vaqtini tanlash</string>
+</resources>
